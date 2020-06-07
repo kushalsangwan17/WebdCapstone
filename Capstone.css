@@ -1,0 +1,38 @@
+body{
+	background-color: #011627;
+	border-color: blue;
+	border-width: 80px;
+	border-style: solid;
+	border-top:0px;
+	padding-left: 300px;
+
+	padding-right: 300px;
+	padding-top: 10px;
+	font-family: 'Sansita', sans-serif;
+	text-align: center;
+	color: #FDFFFC;
+	margin:0px;
+
+}
+
+input{
+	width: 250px;
+	height: 30px;
+	color: black;
+	font-size: 17px;
+}
+
+form{
+	font-size : 1.5em;
+}
+
+#submit_button{
+	border-radius: 10px;
+	background-color: #FF9F1C;
+	color: black;
+	font-size: 20px;
+	width: 150px;
+	height: 50px;
+	font-family: 'Sansita', sans-serif;
+	margin-bottom: 10px;
+}
